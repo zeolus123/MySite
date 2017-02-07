@@ -1,0 +1,17 @@
+#menu {
+    align-content: center;
+    background-color: yellow;
+    margin: auto, auto, auto, auto;
+}
+
+#menuBar {
+
+    background-color: red;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.option {
+    display: inline;
+}
